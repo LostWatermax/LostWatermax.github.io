@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Herzlich willkommen auf meiner Website!
 
 You can use the [editor on GitHub](https://github.com/LostWatermax/LostWatermax.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
